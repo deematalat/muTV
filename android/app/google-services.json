@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1071797686579",
+    "project_id": "mutv-23b49",
+    "storage_bucket": "mutv-23b49.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071797686579:android:d0ca6e88486056daafae46",
+        "android_client_info": {
+          "package_name": "com.example.mutv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1071797686579-pjnorh9m26hsslba16lfa1hdgg55vve2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChIhMYT7o4jkc5rHbJaQDToPFewCMB8Fk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1071797686579-pjnorh9m26hsslba16lfa1hdgg55vve2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
